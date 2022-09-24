@@ -1,5 +1,5 @@
 # Julia-Aerospace
-[![Julia](https://badgen.net/badge/Language/Julia/green?icon)](https://julialang.org/)
+[![Julia](https://badgen.net/badge/Made%20with/Julia/green?)](https://julialang.org/)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/green?icon=github)](https://github.com/Naereen/badges/)
 [![PyPI status](https://img.shields.io/pypi/status/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/KenedyMatiasso/PyAAT/blob/main/LICENSE)
