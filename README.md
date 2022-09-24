@@ -1,10 +1,10 @@
 # Julia-Aerospace
 [![Julia](https://badgen.net/badge/Made%20with/Julia/green?)](https://julialang.org/)
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/green?icon=github)](https://github.com/Naereen/badges/)
-[![PyPI status](https://img.shields.io/pypi/status/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-[![license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/KenedyMatiasso/PyAAT/blob/main/LICENSE)
-[![docs](https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat-square)](https://pypi.org/project/PyAAT/#description)
-[![mybinder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/KenedyMatiasso/PyAAT/3e355dbb77a3db0cfaef2a0a941bc9f79cfb32ed)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/green?icon=github)](https://github.com/KenedyMatiasso/Julia-Aerospace)
+[![PyPI status](https://img.shields.io/pypi/status/ansicolortags.svg)](https://github.com/KenedyMatiasso/Julia-Aerospace)
+[![license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/KenedyMatiasso/Julia-Aerospace/LICENSE)
+[![docs](https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat-square)]()
+[![mybinder](https://mybinder.org/badge.svg)]()
 
 | Name:         |Julia-Aerospace|
 |---------------|-----------|
