@@ -13,4 +13,4 @@
 
 ## About Julia-Aerospace
 
-Julia-Aerospace is a free Julia package aimed to support aerospace engineers along the design process. It includes a series of tools and models for modeling, analysis and simulation of aeronautic and space systems.
+Julia-Aerospace is a free Julia package aimed to support aerospace engineers along the design process. It includes a series of tools and models for modeling, analysis and simulation of aircraft and space systems.
